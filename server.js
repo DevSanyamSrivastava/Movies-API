@@ -42,7 +42,14 @@ const movies = [
         "year": 2019,
         "director": "Sandeep Reddy Vanga",
         "genre": "Romance/Drama"
-      }
+      },
+    {
+    "id": 33,
+    "name": "Avengers",
+    "year": 2024,
+    "director": "Sanyam",
+    "genre": "Action/Drama"
+}
       
 ];
 
