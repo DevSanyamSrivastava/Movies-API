@@ -49,6 +49,13 @@ const movies = [
     "year": 2024,
     "director": "Sanyam",
     "genre": "Action/Drama"
+},
+{
+    "id": 34,
+    "name": "1920",
+    "year": 2024,
+    "director": "Sanyam",
+    "genre": "Action/Drama"
 }
       
 ];
